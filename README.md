@@ -15,32 +15,32 @@ Keys needed to play:
 
 Game Play GIF:
 <br/>
-<img src="./part1/media/gameplay.gif" alt="Working Game" width="250"/>
+<img src="./code/media/gameplay.gif" alt="Working Game" width="250"/>
 
 When one whole row is filled with no spaces, the line is removed. (GIF)
 <br/>
-<img src="./part1/media/linedelete.gif" alt="Line Deleted" width="250"/>
+<img src="./code/media/linedelete.gif" alt="Line Deleted" width="250"/>
 
 SCREENSHOTS:
 
 Welcome Screen:
 <br/>
-<img src="./part1/media/gamestart.jpg" width="250">
+<img src="./code/media/gamestart.jpg" width="250">
 
 Game Play:
 <br/>
-<img src="./part1/media/game1.jpg" width="250">
+<img src="./code/media/game1.jpg" width="250">
 
-<img src="./part1/media/game2.jpg" width="250">
+<img src="./code/media/game2.jpg" width="250">
 
 Wireframe mode:
 <br/>
-<img src="./part1/media/wireframe.png" width="250">
+<img src="./code/media/wireframe.png" width="250">
 
 Map printed in terminal :
 <br/>
-<img src="./part1/media/map_in_terminal.png" width="250">
+<img src="./code/media/map_in_terminal.png" width="250">
 
 Restart Game Screen:
 <br/>
-<img src="./part1/media/gamerestart.jpg" width="250">
+<img src="./code/media/gamerestart.jpg" width="250">
